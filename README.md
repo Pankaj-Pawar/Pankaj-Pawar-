@@ -90,7 +90,7 @@ Bash, Python and Ansible automation for VM provisioning, health checks, backups,
 
 * GitHub: @Pankaj-Pawar
 * LinkedIn: https://www.linkedin.com/in/pankaj-pawar-🇮🇳-5137b2104/
-* Email: pankajpawar1515@gmailcom
+* Email: pankajpawar1515@gmail.com
 
 ---
 
